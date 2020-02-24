@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582543327 source:/home/isaac/Desktop/daa_manual/mergeSort/main.cpp
+	<stdio.h>
+	<time.h>
+	<iostream>
+
